@@ -1,0 +1,43 @@
+.header {
+    background-color: #6aa84f;
+    margin: 0px 15px 5px;
+    height: 100px;
+    width: 920px;
+}
+
+.content {
+    display: flex;
+}
+
+.navigation {
+    background-color: #6fa8dc;
+    width: 200px;
+    height: 700px;
+    margin: 5px 10px 5px 15px;
+}
+
+.main {
+    background-color: #e06666;
+    width: 700px;
+    height: 800px;
+    margin: 5px 15px 5px 10px;
+}
+
+.mainContent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.subcontent {
+    background-color: #ffd966;
+    width: 300px;
+    height: 600px;
+    margin: 15px;
+}
+
+.advertisement {
+    background-color: #b4a7d6;
+    width: 670px;
+    height: 135px;
+    margin: 15px;
+}
